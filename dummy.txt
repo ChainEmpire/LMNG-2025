@@ -179,3 +179,4 @@ Refactor Redux store configuration - 2022-07-16T04:36:33 - Casey Johnson
 Update README with environment setup - 2024-04-25T15:38:57 - Jordan Kim
 Fix login bug for expired sessions - 2022-02-13T18:27:13 - Casey Johnson
 Refactor Redux store configuration - 2024-04-19T05:03:20 - Morgan Lee
+Improve caching on product pages - 2022-02-07T19:19:14 - Jordan Kim
