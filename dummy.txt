@@ -49,3 +49,4 @@ Improve page load performance - 2024-06-15T16:11:30 - Casey Johnson
 Add Google Analytics integration - 2024-08-02T02:21:51 - Jamie Smith
 Update changelog and version - 2023-01-03T20:21:53 - Dana Fox
 Add user profile editing feature - 2024-06-05T14:09:36 - Jordan Kim
+Enhance accessibility with ARIA tags - 2022-02-28T01:58:42 - Jordan Kim
