@@ -76,3 +76,4 @@ Improve error messages for failed payments - 2024-06-04T13:26:21 - Morgan Lee
 Add unit tests for billing service - 2024-01-08T05:39:22 - Casey Johnson
 Add support for multi-language UI - 2024-03-03T18:08:52 - Jordan Kim
 Implement forgot password functionality - 2023-12-26T04:43:13 - Jamie Smith
+Clean up legacy admin panel routes - 2022-03-17T23:25:10 - Jordan Kim
