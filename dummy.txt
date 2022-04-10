@@ -88,3 +88,4 @@ Fix issue with mobile layout - 2023-06-16T09:03:53 - Morgan Lee
 Add loading indicators to dashboard - 2024-05-08T05:05:41 - Riley West
 Fix issue with mobile layout - 2023-06-12T18:55:53 - Dana Fox
 Fix bug in date picker logic - 2024-12-19T04:06:33 - Jamie Smith
+Fix validation errors on signup form - 2022-04-11T05:24:17 - Riley West
