@@ -157,3 +157,4 @@ Optimize SQL queries in reports module - 2022-07-11T10:50:18 - Taylor Brooks
 Fix login bug for expired sessions - 2022-08-09T17:30:15 - Morgan Lee
 Fix issue with mobile layout - 2024-06-19T13:53:39 - Riley West
 Optimize SQL queries in reports module - 2024-01-24T14:43:27 - Casey Johnson
+Update changelog and version - 2022-05-01T00:43:28 - Dana Fox
