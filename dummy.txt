@@ -183,3 +183,4 @@ Improve caching on product pages - 2022-02-07T19:19:14 - Jordan Kim
 Fix 500 error on order confirmation - 2022-06-11T00:13:08 - Riley West
 Add user profile editing feature - 2023-11-26T19:15:26 - Morgan Lee
 Refactor Redux store configuration - 2024-07-12T00:48:43 - Dana Fox
+Optimize image assets - 2022-05-26T00:12:07 - Casey Johnson
