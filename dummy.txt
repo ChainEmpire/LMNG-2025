@@ -54,3 +54,4 @@ Optimize SQL queries in reports module - 2022-02-28T03:14:07 - Jamie Smith
 Enhance accessibility with ARIA tags - 2022-06-20T22:42:32 - Taylor Brooks
 Update README with environment setup - 2024-07-10T13:00:15 - Morgan Lee
 Add loading indicators to dashboard - 2022-11-11T03:01:09 - Taylor Brooks
+Fix broken links in documentation - 2022-06-10T04:37:59 - Riley West
