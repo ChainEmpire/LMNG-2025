@@ -104,3 +104,4 @@ Fix validation errors on signup form - 2024-07-27T18:22:20 - Morgan Lee
 Fix 500 error on order confirmation - 2022-12-28T23:17:53 - Jordan Kim
 Fix validation errors on signup form - 2023-01-01T07:14:53 - Jordan Kim
 Enhance accessibility with ARIA tags - 2023-12-28T18:43:53 - Riley West
+Remove unused imports and variables - 2022-06-23T02:20:33 - Morgan Lee
