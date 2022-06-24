@@ -137,3 +137,4 @@ Improve page load performance - 2023-12-10T18:21:33 - Dana Fox
 Refactor Redux store configuration - 2022-07-07T22:48:17 - Riley West
 Improve error messages for failed payments - 2022-12-06T14:54:51 - Jordan Kim
 Fix broken links in documentation - 2023-07-11T07:02:42 - Morgan Lee
+Update changelog and version - 2022-06-24T18:19:11 - Dana Fox
