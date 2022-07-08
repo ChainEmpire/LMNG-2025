@@ -69,3 +69,4 @@ Optimize image assets - 2024-06-15T21:35:54 - Jordan Kim
 Implement forgot password functionality - 2024-12-19T03:07:23 - Jordan Kim
 Improve error messages for failed payments - 2024-01-13T23:33:15 - Jordan Kim
 Implement dark mode support - 2024-02-13T04:23:17 - Dana Fox
+Enhance accessibility with ARIA tags - 2022-07-09T02:44:38 - Jordan Kim
