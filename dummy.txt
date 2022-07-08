@@ -139,3 +139,4 @@ Improve error messages for failed payments - 2022-12-06T14:54:51 - Jordan Kim
 Fix broken links in documentation - 2023-07-11T07:02:42 - Morgan Lee
 Update changelog and version - 2022-06-24T18:19:11 - Dana Fox
 Refactor authentication middleware - 2022-10-06T11:48:29 - Dana Fox
+Fix typo in error alert - 2022-07-08T19:13:16 - Dana Fox
