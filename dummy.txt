@@ -175,3 +175,4 @@ Add Google Analytics integration - 2022-07-28T19:06:19 - Dana Fox
 Clean up legacy admin panel routes - 2022-10-17T16:34:45 - Taylor Brooks
 Migrate from axios to fetch API - 2024-05-03T05:27:04 - Morgan Lee
 Improve error messages for failed payments - 2022-09-05T05:12:19 - Casey Johnson
+Refactor Redux store configuration - 2022-07-16T04:36:33 - Casey Johnson
