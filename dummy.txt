@@ -4,3 +4,4 @@ Update changelog and version - 2024-12-10T18:44:32 - Casey Johnson
 Improve error messages for failed payments - 2023-11-24T05:26:09 - Riley West
 Add user profile editing feature - 2023-12-04T04:25:31 - Jordan Kim
 Add loading indicators to dashboard - 2022-02-12T09:04:40 - Jordan Kim
+Clean up legacy admin panel routes - 2022-10-10T11:46:10 - Jamie Smith
