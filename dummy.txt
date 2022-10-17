@@ -172,3 +172,4 @@ Optimize image assets - 2023-09-04T20:23:46 - Alex Carter
 Add unit tests for billing service - 2023-02-22T09:00:58 - Riley West
 Add unit tests for billing service - 2024-07-17T13:29:32 - Casey Johnson
 Add Google Analytics integration - 2022-07-28T19:06:19 - Dana Fox
+Clean up legacy admin panel routes - 2022-10-17T16:34:45 - Taylor Brooks
