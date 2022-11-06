@@ -31,3 +31,4 @@ Fix bug in date picker logic - 2022-04-28T21:04:21 - Alex Carter
 Enhance accessibility with ARIA tags - 2023-11-09T16:26:44 - Jordan Kim
 Update dependencies to latest versions - 2022-07-03T21:29:00 - Alex Carter
 Remove unused imports and variables - 2024-11-02T22:08:05 - Taylor Brooks
+Add skeleton loading screens - 2022-11-06T17:34:03 - Alex Carter
