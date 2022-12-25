@@ -95,3 +95,4 @@ Add skeleton loading screens - 2024-07-03T00:05:55 - Casey Johnson
 Clean up legacy admin panel routes - 2024-01-02T16:41:58 - Casey Johnson
 Fix broken links in documentation - 2024-11-19T09:58:22 - Taylor Brooks
 Add unit tests for billing service - 2023-06-07T08:07:46 - Casey Johnson
+Fix typo in error alert - 2022-12-26T08:52:10 - Riley West
