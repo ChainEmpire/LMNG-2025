@@ -102,3 +102,4 @@ Add user profile editing feature - 2022-06-13T19:50:08 - Riley West
 Clean up legacy admin panel routes - 2024-03-08T05:30:06 - Dana Fox
 Fix validation errors on signup form - 2024-07-27T18:22:20 - Morgan Lee
 Fix 500 error on order confirmation - 2022-12-28T23:17:53 - Jordan Kim
+Fix validation errors on signup form - 2023-01-01T07:14:53 - Jordan Kim
