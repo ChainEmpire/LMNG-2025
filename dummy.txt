@@ -14,3 +14,4 @@ Fix bug in date picker logic - 2022-10-25T06:13:40 - Riley West
 Fix validation errors on signup form - 2024-07-11T10:05:25 - Riley West
 Add Google Analytics integration - 2023-09-13T14:01:54 - Dana Fox
 Add Google Analytics integration - 2022-04-17T06:21:19 - Taylor Brooks
+Enhance accessibility with ARIA tags - 2023-01-03T09:48:16 - Riley West
