@@ -33,3 +33,4 @@ Update dependencies to latest versions - 2022-07-03T21:29:00 - Alex Carter
 Remove unused imports and variables - 2024-11-02T22:08:05 - Taylor Brooks
 Add skeleton loading screens - 2022-11-06T17:34:03 - Alex Carter
 Fix broken links in documentation - 2022-02-09T14:46:02 - Riley West
+Update changelog and version - 2023-01-03T14:02:45 - Alex Carter
