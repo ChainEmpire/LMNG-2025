@@ -113,3 +113,4 @@ Improve page load performance - 2023-04-03T03:06:57 - Casey Johnson
 Update dependencies to latest versions - 2023-11-27T00:51:18 - Morgan Lee
 Update README with environment setup - 2024-01-05T19:50:01 - Morgan Lee
 Add unit tests for billing service - 2023-04-01T07:15:29 - Jamie Smith
+Implement forgot password functionality - 2023-02-19T19:20:33 - Dana Fox
