@@ -60,3 +60,4 @@ Replace moment.js with day.js - 2022-12-09T00:09:44 - Taylor Brooks
 Refactor authentication middleware - 2023-02-18T06:19:15 - Morgan Lee
 Add Google Analytics integration - 2024-06-24T02:16:03 - Jamie Smith
 Remove unused imports and variables - 2024-10-18T23:57:37 - Taylor Brooks
+Update dependencies to latest versions - 2023-02-21T11:27:07 - Jamie Smith
