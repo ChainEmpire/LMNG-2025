@@ -64,3 +64,4 @@ Update dependencies to latest versions - 2023-02-21T11:27:07 - Jamie Smith
 Remove unused imports and variables - 2022-07-21T12:54:55 - Dana Fox
 Optimize SQL queries in reports module - 2024-09-16T02:47:16 - Riley West
 Fix bug in date picker logic - 2022-07-05T20:19:57 - Riley West
+Fix 500 error on order confirmation - 2023-03-07T01:58:51 - Alex Carter
