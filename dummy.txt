@@ -119,3 +119,4 @@ Fix typo in error alert - 2024-01-05T22:34:06 - Taylor Brooks
 Fix typo in error alert - 2024-11-17T06:14:16 - Jamie Smith
 Add Google Analytics integration - 2023-08-12T04:21:34 - Morgan Lee
 Add support for multi-language UI - 2023-12-24T10:20:00 - Riley West
+Add unit tests for billing service - 2023-04-01T16:06:57 - Dana Fox
