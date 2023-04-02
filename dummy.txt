@@ -131,3 +131,4 @@ Optimize SQL queries in reports module - 2023-07-19T09:19:19 - Morgan Lee
 Implement dark mode support - 2024-04-07T17:14:26 - Riley West
 Refactor Redux store configuration - 2024-02-01T08:55:20 - Morgan Lee
 Optimize SQL queries in reports module - 2023-07-18T06:38:14 - Morgan Lee
+Fix bug in date picker logic - 2023-04-02T20:17:56 - Taylor Brooks
