@@ -109,3 +109,4 @@ Fix login bug for expired sessions - 2022-04-27T02:58:21 - Morgan Lee
 Add Google Analytics integration - 2024-01-11T09:55:21 - Casey Johnson
 Fix broken links in documentation - 2024-04-26T23:35:30 - Alex Carter
 Add skeleton loading screens - 2022-02-02T16:29:28 - Casey Johnson
+Improve page load performance - 2023-04-03T03:06:57 - Casey Johnson
