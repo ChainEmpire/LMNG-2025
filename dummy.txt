@@ -20,3 +20,4 @@ Fix issue with mobile layout - 2023-07-09T12:19:21 - Jordan Kim
 Add Google Analytics integration - 2024-02-05T15:10:38 - Alex Carter
 Enhance accessibility with ARIA tags - 2022-04-12T14:31:47 - Alex Carter
 Implement forgot password functionality - 2022-03-17T06:46:40 - Jamie Smith
+Fix login bug for expired sessions - 2023-04-10T10:19:20 - Jamie Smith
