@@ -86,3 +86,4 @@ Fix typo in error alert - 2022-11-19T01:08:47 - Dana Fox
 Replace moment.js with day.js - 2022-11-05T16:11:35 - Jordan Kim
 Fix issue with mobile layout - 2023-06-16T09:03:53 - Morgan Lee
 Add loading indicators to dashboard - 2024-05-08T05:05:41 - Riley West
+Fix issue with mobile layout - 2023-06-12T18:55:53 - Dana Fox
