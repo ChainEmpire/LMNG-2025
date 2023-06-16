@@ -84,3 +84,4 @@ Implement dark mode support - 2022-06-07T16:10:58 - Dana Fox
 Fix typo in error alert - 2023-08-25T16:25:01 - Alex Carter
 Fix typo in error alert - 2022-11-19T01:08:47 - Dana Fox
 Replace moment.js with day.js - 2022-11-05T16:11:35 - Jordan Kim
+Fix issue with mobile layout - 2023-06-16T09:03:53 - Morgan Lee
