@@ -163,3 +163,4 @@ Fix broken links in documentation - 2024-05-21T22:55:33 - Morgan Lee
 Refactor authentication middleware - 2024-08-02T04:33:25 - Riley West
 Remove unused imports and variables - 2024-07-10T07:20:40 - Jordan Kim
 Migrate from axios to fetch API - 2022-12-19T12:58:13 - Casey Johnson
+Implement dark mode support - 2023-06-23T07:15:52 - Jamie Smith
