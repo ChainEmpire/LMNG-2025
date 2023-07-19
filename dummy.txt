@@ -127,3 +127,4 @@ Fix typo in error alert - 2022-12-06T21:35:38 - Casey Johnson
 Clean up legacy admin panel routes - 2024-02-16T09:50:48 - Dana Fox
 Fix 500 error on order confirmation - 2023-02-04T11:21:15 - Jordan Kim
 Update changelog and version - 2022-10-15T13:06:00 - Jamie Smith
+Optimize SQL queries in reports module - 2023-07-19T09:19:19 - Morgan Lee
