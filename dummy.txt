@@ -1,1 +1,2 @@
 Migrate from axios to fetch API - 2023-02-17T22:32:48 - Dana Fox
+Update changelog and version - 2023-07-25T04:16:50 - Taylor Brooks
