@@ -44,3 +44,4 @@ Fix validation errors on signup form - 2022-09-27T16:28:23 - Jamie Smith
 Replace moment.js with day.js - 2024-04-21T21:10:21 - Taylor Brooks
 Add unit tests for billing service - 2024-04-17T03:27:45 - Dana Fox
 Add unit tests for billing service - 2022-02-19T02:29:58 - Morgan Lee
+Improve caching on product pages - 2023-07-27T19:54:08 - Taylor Brooks
