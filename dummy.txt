@@ -187,3 +187,4 @@ Optimize image assets - 2022-05-26T00:12:07 - Casey Johnson
 Update README with environment setup - 2024-11-07T08:43:57 - Morgan Lee
 Fix login bug for expired sessions - 2024-01-22T08:51:07 - Dana Fox
 Add Google Analytics integration - 2024-03-01T18:27:15 - Morgan Lee
+Add support for multi-language UI - 2023-09-13T09:07:41 - Casey Johnson
