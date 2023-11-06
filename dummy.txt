@@ -149,3 +149,4 @@ Add loading indicators to dashboard - 2024-10-07T12:34:44 - Dana Fox
 Update dependencies to latest versions - 2024-05-11T08:54:40 - Jordan Kim
 Add loading indicators to dashboard - 2024-11-14T23:47:41 - Dana Fox
 Fix login bug for expired sessions - 2023-02-15T15:00:28 - Alex Carter
+Optimize image assets - 2023-11-06T19:46:32 - Morgan Lee
