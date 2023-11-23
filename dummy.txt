@@ -1,3 +1,4 @@
 Migrate from axios to fetch API - 2023-02-17T22:32:48 - Dana Fox
 Update changelog and version - 2023-07-25T04:16:50 - Taylor Brooks
 Update changelog and version - 2024-12-10T18:44:32 - Casey Johnson
+Improve error messages for failed payments - 2023-11-24T05:26:09 - Riley West
