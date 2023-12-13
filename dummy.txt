@@ -78,3 +78,4 @@ Add support for multi-language UI - 2024-03-03T18:08:52 - Jordan Kim
 Implement forgot password functionality - 2023-12-26T04:43:13 - Jamie Smith
 Clean up legacy admin panel routes - 2022-03-17T23:25:10 - Jordan Kim
 Add unit tests for billing service - 2023-07-21T16:46:11 - Jordan Kim
+Update dependencies to latest versions - 2023-12-13T17:31:07 - Morgan Lee
