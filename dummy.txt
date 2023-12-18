@@ -38,3 +38,4 @@ Add loading indicators to dashboard - 2022-10-24T00:19:45 - Morgan Lee
 Optimize image assets - 2023-03-03T21:42:28 - Dana Fox
 Fix bug in date picker logic - 2023-01-21T12:51:30 - Taylor Brooks
 Fix 500 error on order confirmation - 2022-04-10T14:25:56 - Dana Fox
+Fix typo in error alert - 2023-12-19T02:38:35 - Casey Johnson
