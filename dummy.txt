@@ -167,3 +167,4 @@ Implement dark mode support - 2023-06-23T07:15:52 - Jamie Smith
 Add unit tests for billing service - 2023-10-23T19:15:39 - Morgan Lee
 Refactor Redux store configuration - 2024-12-25T13:43:12 - Jordan Kim
 Fix issue with mobile layout - 2022-07-21T20:13:30 - Taylor Brooks
+Add unit tests for billing service - 2024-01-09T18:49:05 - Taylor Brooks
