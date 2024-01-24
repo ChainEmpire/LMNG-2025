@@ -151,3 +151,4 @@ Add loading indicators to dashboard - 2024-11-14T23:47:41 - Dana Fox
 Fix login bug for expired sessions - 2023-02-15T15:00:28 - Alex Carter
 Optimize image assets - 2023-11-06T19:46:32 - Morgan Lee
 Fix validation errors on signup form - 2023-04-17T21:48:07 - Morgan Lee
+Fix issue with mobile layout - 2024-01-24T23:44:57 - Jordan Kim
