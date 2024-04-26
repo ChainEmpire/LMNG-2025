@@ -107,3 +107,4 @@ Enhance accessibility with ARIA tags - 2023-12-28T18:43:53 - Riley West
 Remove unused imports and variables - 2022-06-23T02:20:33 - Morgan Lee
 Fix login bug for expired sessions - 2022-04-27T02:58:21 - Morgan Lee
 Add Google Analytics integration - 2024-01-11T09:55:21 - Casey Johnson
+Fix broken links in documentation - 2024-04-26T23:35:30 - Alex Carter
