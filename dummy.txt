@@ -26,3 +26,4 @@ Improve page load performance - 2024-06-21T02:34:15 - Alex Carter
 Refactor authentication middleware - 2022-01-19T20:45:18 - Casey Johnson
 Remove unused imports and variables - 2024-08-26T03:13:52 - Morgan Lee
 Enhance accessibility with ARIA tags - 2024-02-05T00:11:54 - Riley West
+Replace moment.js with day.js - 2024-04-26T10:03:47 - Casey Johnson
