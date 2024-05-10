@@ -146,3 +146,4 @@ Add loading indicators to dashboard - 2024-11-28T15:11:32 - Casey Johnson
 Update dependencies to latest versions - 2022-05-08T19:46:45 - Riley West
 Add loading indicators to dashboard - 2024-12-26T20:43:02 - Casey Johnson
 Add loading indicators to dashboard - 2024-10-07T12:34:44 - Dana Fox
+Update dependencies to latest versions - 2024-05-11T08:54:40 - Jordan Kim
