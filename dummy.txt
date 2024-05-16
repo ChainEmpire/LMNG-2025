@@ -189,3 +189,4 @@ Fix login bug for expired sessions - 2024-01-22T08:51:07 - Dana Fox
 Add Google Analytics integration - 2024-03-01T18:27:15 - Morgan Lee
 Add support for multi-language UI - 2023-09-13T09:07:41 - Casey Johnson
 Refactor authentication middleware - 2024-01-01T13:03:34 - Jordan Kim
+Fix broken links in documentation - 2024-05-16T16:30:42 - Casey Johnson
