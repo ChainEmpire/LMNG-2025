@@ -159,3 +159,4 @@ Fix issue with mobile layout - 2024-06-19T13:53:39 - Riley West
 Optimize SQL queries in reports module - 2024-01-24T14:43:27 - Casey Johnson
 Update changelog and version - 2022-05-01T00:43:28 - Dana Fox
 Enhance accessibility with ARIA tags - 2023-08-21T22:19:05 - Jamie Smith
+Fix broken links in documentation - 2024-05-21T22:55:33 - Morgan Lee
