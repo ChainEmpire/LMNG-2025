@@ -155,3 +155,4 @@ Fix issue with mobile layout - 2024-01-24T23:44:57 - Jordan Kim
 Fix broken links in documentation - 2024-09-27T20:54:32 - Riley West
 Optimize SQL queries in reports module - 2022-07-11T10:50:18 - Taylor Brooks
 Fix login bug for expired sessions - 2022-08-09T17:30:15 - Morgan Lee
+Fix issue with mobile layout - 2024-06-19T13:53:39 - Riley West
