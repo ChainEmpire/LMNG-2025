@@ -91,3 +91,4 @@ Fix bug in date picker logic - 2024-12-19T04:06:33 - Jamie Smith
 Fix validation errors on signup form - 2022-04-11T05:24:17 - Riley West
 Clean up legacy admin panel routes - 2023-07-18T16:24:32 - Taylor Brooks
 Update dependencies to latest versions - 2024-04-13T00:16:50 - Morgan Lee
+Add skeleton loading screens - 2024-07-03T00:05:55 - Casey Johnson
