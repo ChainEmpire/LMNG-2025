@@ -100,3 +100,4 @@ Replace moment.js with day.js - 2023-02-06T15:52:10 - Jordan Kim
 Add Google Analytics integration - 2023-03-07T11:20:13 - Jordan Kim
 Add user profile editing feature - 2022-06-13T19:50:08 - Riley West
 Clean up legacy admin panel routes - 2024-03-08T05:30:06 - Dana Fox
+Fix validation errors on signup form - 2024-07-27T18:22:20 - Morgan Lee
