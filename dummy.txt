@@ -160,3 +160,4 @@ Optimize SQL queries in reports module - 2024-01-24T14:43:27 - Casey Johnson
 Update changelog and version - 2022-05-01T00:43:28 - Dana Fox
 Enhance accessibility with ARIA tags - 2023-08-21T22:19:05 - Jamie Smith
 Fix broken links in documentation - 2024-05-21T22:55:33 - Morgan Lee
+Refactor authentication middleware - 2024-08-02T04:33:25 - Riley West
