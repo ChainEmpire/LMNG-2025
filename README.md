@@ -93,3 +93,4 @@ Improve test coverage - 2025-04-22T18:27:13
 Fix typos - 2024-08-13T18:27:13
 Refactor old code - 2025-01-21T18:27:14
 Implement UI changes - 2024-09-19T18:27:14
+Migrate to TypeScript - 2024-09-27T18:27:14
