@@ -93,3 +93,4 @@ Clean up legacy admin panel routes - 2023-07-18T16:24:32 - Taylor Brooks
 Update dependencies to latest versions - 2024-04-13T00:16:50 - Morgan Lee
 Add skeleton loading screens - 2024-07-03T00:05:55 - Casey Johnson
 Clean up legacy admin panel routes - 2024-01-02T16:41:58 - Casey Johnson
+Fix broken links in documentation - 2024-11-19T09:58:22 - Taylor Brooks
