@@ -8,3 +8,4 @@ Refactor old code - 2025-03-02T18:26:47
 Update documentation - 2024-10-21T18:26:47
 Update dependencies - 2024-11-03T18:26:47
 Fix typos - 2024-10-18T18:26:47
+Improve test coverage - 2024-11-21T18:26:48
