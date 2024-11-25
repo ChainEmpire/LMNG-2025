@@ -11,3 +11,4 @@ Fix typos - 2024-10-18T18:26:47
 Improve test coverage - 2024-11-21T18:26:48
 Implement UI changes - 2024-10-27T18:26:48
 Optimize database queries - 2025-02-24T18:26:48
+Migrate to TypeScript - 2024-11-25T18:26:49
