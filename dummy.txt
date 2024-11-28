@@ -142,3 +142,4 @@ Refactor authentication middleware - 2022-10-06T11:48:29 - Dana Fox
 Fix typo in error alert - 2022-07-08T19:13:16 - Dana Fox
 Update dependencies to latest versions - 2024-09-22T13:55:51 - Jamie Smith
 Improve caching on product pages - 2023-08-19T04:02:23 - Jordan Kim
+Add loading indicators to dashboard - 2024-11-28T15:11:32 - Casey Johnson
