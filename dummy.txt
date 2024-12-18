@@ -66,3 +66,4 @@ Optimize SQL queries in reports module - 2024-09-16T02:47:16 - Riley West
 Fix bug in date picker logic - 2022-07-05T20:19:57 - Riley West
 Fix 500 error on order confirmation - 2023-03-07T01:58:51 - Alex Carter
 Optimize image assets - 2024-06-15T21:35:54 - Jordan Kim
+Implement forgot password functionality - 2024-12-19T03:07:23 - Jordan Kim
