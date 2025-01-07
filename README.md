@@ -98,3 +98,4 @@ Update documentation - 2025-02-18T18:27:15
 Fix login bug - 2024-11-04T18:27:15
 Improve performance - 2024-12-27T18:27:15
 Migrate to TypeScript - 2024-09-22T18:27:16
+Add error handling - 2025-01-07T18:27:16
