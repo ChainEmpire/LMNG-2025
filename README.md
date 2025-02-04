@@ -157,3 +157,4 @@ Add error handling - 2025-01-03T18:27:33
 Add error handling - 2025-01-10T18:27:34
 Fix typos - 2024-09-25T18:27:34
 Migrate to TypeScript - 2025-03-28T18:27:34
+Update documentation - 2025-02-04T18:27:34
