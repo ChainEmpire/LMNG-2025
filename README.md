@@ -15,3 +15,4 @@ Migrate to TypeScript - 2024-11-25T18:26:49
 Update documentation - 2024-11-03T18:26:49
 Update dependencies - 2025-03-20T18:26:49
 Update dependencies - 2025-04-18T18:26:50
+Refactor old code - 2025-03-30T18:26:50
