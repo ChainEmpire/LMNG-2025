@@ -1,175 +1,47 @@
-# New Repo History
-Migrate to TypeScript - 2024-09-28T18:26:45
-Improve performance - 2024-09-07T18:26:45
-Improve test coverage - 2025-02-06T18:26:46
-Improve performance - 2025-06-18T18:26:46
-Fix typos - 2025-03-30T18:26:46
-Refactor old code - 2025-03-02T18:26:47
-Update documentation - 2024-10-21T18:26:47
-Update dependencies - 2024-11-03T18:26:47
-Fix typos - 2024-10-18T18:26:47
-Improve test coverage - 2024-11-21T18:26:48
-Implement UI changes - 2024-10-27T18:26:48
-Optimize database queries - 2025-02-24T18:26:48
-Migrate to TypeScript - 2024-11-25T18:26:49
-Update documentation - 2024-11-03T18:26:49
-Update dependencies - 2025-03-20T18:26:49
-Update dependencies - 2025-04-18T18:26:50
-Refactor old code - 2025-03-30T18:26:50
-Implement UI changes - 2025-01-12T18:26:50
-Update dependencies - 2024-07-31T18:26:51
-Migrate to TypeScript - 2025-06-06T18:26:51
-Implement UI changes - 2025-02-18T18:26:51
-Update documentation - 2024-09-26T18:26:52
-Update documentation - 2024-09-30T18:26:52
-Fix typos - 2024-09-28T18:26:52
-Improve test coverage - 2024-12-15T18:26:52
-Add new feature - 2025-02-28T18:26:53
-Add new feature - 2025-04-16T18:26:53
-Refactor old code - 2024-12-31T18:26:53
-Implement UI changes - 2025-06-19T18:26:54
-Add error handling - 2024-12-16T18:26:54
-Fix typos - 2025-02-08T18:26:54
-Improve test coverage - 2024-08-26T18:26:55
-Fix login bug - 2024-12-06T18:26:55
-Improve test coverage - 2024-10-13T18:26:55
-Fix typos - 2025-02-28T18:26:56
-Refactor old code - 2025-01-21T18:26:56
-Refactor old code - 2025-05-05T18:26:56
-Migrate to TypeScript - 2024-10-12T18:26:57
-Add error handling - 2025-03-24T18:26:57
-Migrate to TypeScript - 2025-01-31T18:26:57
-Update documentation - 2024-08-27T18:26:57
-Refactor old code - 2025-06-14T18:26:58
-Implement UI changes - 2024-09-26T18:26:58
-Update dependencies - 2024-08-08T18:26:58
-Fix typos - 2024-10-29T18:26:59
-Fix typos - 2024-08-09T18:26:59
-Add new feature - 2024-10-20T18:26:59
-Improve performance - 2024-08-20T18:27:00
-Update dependencies - 2024-09-30T18:27:00
-Implement UI changes - 2024-09-12T18:27:00
-Fix login bug - 2025-04-04T18:27:01
-Optimize database queries - 2024-11-14T18:27:01
-Add error handling - 2024-11-01T18:27:01
-Refactor old code - 2025-02-04T18:27:01
-Optimize database queries - 2025-03-27T18:27:02
-Improve performance - 2025-01-13T18:27:02
-Implement UI changes - 2025-06-17T18:27:02
-Improve test coverage - 2025-06-16T18:27:03
-Implement UI changes - 2025-03-09T18:27:03
-Improve performance - 2025-03-14T18:27:03
-Migrate to TypeScript - 2024-10-18T18:27:04
-Improve performance - 2024-09-16T18:27:04
-Fix login bug - 2025-01-26T18:27:04
-Add error handling - 2024-12-18T18:27:05
-Implement UI changes - 2024-10-01T18:27:05
-Refactor old code - 2024-11-09T18:27:05
-Optimize database queries - 2025-01-23T18:27:05
-Improve test coverage - 2024-08-15T18:27:06
-Add error handling - 2025-02-22T18:27:06
-Improve performance - 2025-04-04T18:27:06
-Fix typos - 2025-03-06T18:27:07
-Optimize database queries - 2024-09-16T18:27:07
-Add new feature - 2024-08-12T18:27:07
-Improve test coverage - 2024-12-18T18:27:08
-Fix login bug - 2024-09-14T18:27:08
-Implement UI changes - 2025-01-19T18:27:08
-Add error handling - 2024-08-25T18:27:09
-Implement UI changes - 2025-01-26T18:27:09
-Add new feature - 2025-01-02T18:27:09
-Update documentation - 2025-01-25T18:27:10
-Optimize database queries - 2025-05-30T18:27:10
-Fix login bug - 2025-06-22T18:27:10
-Fix login bug - 2024-12-21T18:27:11
-Migrate to TypeScript - 2025-06-19T18:27:11
-Improve performance - 2025-01-17T18:27:11
-Add error handling - 2025-06-20T18:27:12
-Refactor old code - 2024-11-19T18:27:12
-Improve performance - 2024-12-02T18:27:12
-Fix login bug - 2025-05-20T18:27:12
-Refactor old code - 2025-02-16T18:27:13
-Improve test coverage - 2025-04-22T18:27:13
-Fix typos - 2024-08-13T18:27:13
-Refactor old code - 2025-01-21T18:27:14
-Implement UI changes - 2024-09-19T18:27:14
-Migrate to TypeScript - 2024-09-27T18:27:14
-Update documentation - 2025-02-18T18:27:15
-Fix login bug - 2024-11-04T18:27:15
-Improve performance - 2024-12-27T18:27:15
-Migrate to TypeScript - 2024-09-22T18:27:16
-Add error handling - 2025-01-07T18:27:16
-Improve test coverage - 2025-04-27T18:27:16
-Optimize database queries - 2025-04-25T18:27:17
-Fix login bug - 2024-12-26T18:27:17
-Improve test coverage - 2024-12-21T18:27:17
-Implement UI changes - 2024-10-09T18:27:17
-Update dependencies - 2025-06-24T18:27:18
-Refactor old code - 2025-06-14T18:27:18
-Improve performance - 2025-02-21T18:27:18
-Add new feature - 2024-10-04T18:27:19
-Fix login bug - 2024-10-20T18:27:19
-Implement UI changes - 2024-08-13T18:27:19
-Update dependencies - 2025-02-01T18:27:20
-Implement UI changes - 2024-11-08T18:27:20
-Update dependencies - 2025-05-19T18:27:20
-Update dependencies - 2024-12-01T18:27:21
-Refactor old code - 2024-11-20T18:27:21
-Refactor old code - 2025-03-30T18:27:21
-Add new feature - 2024-10-31T18:27:21
-Migrate to TypeScript - 2025-02-01T18:27:22
-Add error handling - 2024-10-31T18:27:22
-Migrate to TypeScript - 2025-04-22T18:27:22
-Improve test coverage - 2025-03-29T18:27:23
-Optimize database queries - 2024-08-28T18:27:23
-Improve test coverage - 2024-08-31T18:27:23
-Improve test coverage - 2024-08-22T18:27:24
-Update documentation - 2024-10-06T18:27:24
-Add error handling - 2025-03-14T18:27:24
-Fix typos - 2024-11-05T18:27:25
-Update documentation - 2024-10-16T18:27:25
-Implement UI changes - 2025-01-01T18:27:25
-Migrate to TypeScript - 2024-12-04T18:27:26
-Update dependencies - 2025-05-15T18:27:26
-Add error handling - 2025-04-27T18:27:26
-Update dependencies - 2024-11-26T18:27:27
-Migrate to TypeScript - 2025-06-25T18:27:27
-Optimize database queries - 2025-05-20T18:27:27
-Add new feature - 2024-08-01T18:27:28
-Update dependencies - 2025-02-03T18:27:28
-Optimize database queries - 2024-12-13T18:27:28
-Migrate to TypeScript - 2025-01-03T18:27:28
-Add error handling - 2025-01-14T18:27:29
-Migrate to TypeScript - 2025-01-14T18:27:29
-Add new feature - 2025-02-01T18:27:29
-Update documentation - 2025-05-25T18:27:30
-Update documentation - 2024-11-09T18:27:30
-Add error handling - 2025-01-01T18:27:30
-Update dependencies - 2025-02-05T18:27:31
-Implement UI changes - 2024-08-09T18:27:31
-Add new feature - 2024-09-15T18:27:31
-Migrate to TypeScript - 2025-05-09T18:27:32
-Implement UI changes - 2025-03-02T18:27:32
-Update dependencies - 2025-06-17T18:27:32
-Add new feature - 2024-12-06T18:27:33
-Improve performance - 2024-12-06T18:27:33
-Add error handling - 2025-01-03T18:27:33
-Add error handling - 2025-01-10T18:27:34
-Fix typos - 2024-09-25T18:27:34
-Migrate to TypeScript - 2025-03-28T18:27:34
-Update documentation - 2025-02-04T18:27:34
-Fix login bug - 2024-09-01T18:27:35
-Add new feature - 2024-08-03T18:27:35
-Fix typos - 2025-01-06T18:27:35
-Add new feature - 2024-10-04T18:27:36
-Implement UI changes - 2025-05-29T18:27:36
-Add error handling - 2025-02-14T18:27:36
-Migrate to TypeScript - 2025-05-10T18:27:37
-Update dependencies - 2024-12-05T18:27:37
-Update dependencies - 2024-10-09T18:27:37
-Implement UI changes - 2025-05-28T18:27:38
-Fix typos - 2024-08-12T18:27:38
-Add new feature - 2024-11-07T18:27:38
-Implement UI changes - 2024-09-14T18:27:39
-Update documentation - 2024-10-14T18:27:39
-Improve test coverage - 2024-11-11T18:27:39
+![](/public/favicon.ico)
+
+[![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
+
+Lumanagi Fantasy is a decentralized prediction market platform that allows anyone to create, trade, and settle prediction markets with smart contracts. Built on the Polygon network, it enables users to participate in fantasy sports and other prediction markets with complete transparency and decentralization.
+
+Lumanagi Fantasy features an innovative earning system with a dynamic XP system that allows players to earn LMNG tokens while participating in prediction markets. The platform is built on the Polygon network, and users can place their bets using the MATIC coin. This document aims to provide an overview of Lumanagi Fantasy, its features, and how users can benefit from it more than any other platform.
+
+- 🖥**Official Website**🖥: <https://lumanagi.com/>
+
+- 🎮**Live Link**🎮: <https://lumanagi.com/prediction/ETH>
+
+- ♾**Ideal Design**♾: <https://figma.com/design/LzBe90Mk7dJHigCsN0WMHj/>
+
+### Install Dependencies
+
+```bash
+1. Front-end    `yarn`
+2. Backe-end    `cd backend & yarn`
+```
+
+### Run
+
+```bash
+yarn start
+```
+
+### Run Backend Only
+
+```bash
+cd backend & yarn start
+```
+
+### Unit testing
+
+```bash
+yarn test
+```
+
+### Integration test
+
+Normally:
+
+```bash
+yarn build
+yarn integration-test
+```
